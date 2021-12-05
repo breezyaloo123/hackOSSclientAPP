@@ -37,6 +37,8 @@ dependencies:
   font_awesome_flutter: ^9.2.0
   flutter_svg: ^1.0.0
   google_fonts: ^2.1.0
+  http: ^0.13.4
+  shared_preferences: ^2.0.9
   
 
 
@@ -67,6 +69,18 @@ flutter:
     - assets/login.svg
     - assets/logapp.svg
     - assets/credit.svg
+    - assets/orange.svg
+    - assets/Free.svg
+    - assets/expresso.png
+    - assets/om.png
+    - assets/emoney_logo.png
+    - assets/freemoney_logo.png
+    - assets/logo_free.png
+    - assets/logo_expresso.png
+    - assets/transfert.svg
+    - assets/historic.svg
+    - assets/solde.svg
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
